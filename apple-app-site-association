@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9FHS3RLB5Q.com.dap.HolyBible",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "447SU583C4.com.dap.HolyBible",
+                "paths": [ "*" ]
+            },
+        ]
+    }
+}
